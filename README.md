@@ -10,7 +10,7 @@ Job scheduler with multi-GPU compatibility and out-of-memory handling.
 
 👁️ Keep an eye on your GPU usage with regular status updates displayed in-app!
 
-### Directions To Run
+### Directions To Run:
 🌱 Install `requirements.txt` in your chosen environment
 
 🏃‍♀️ Run `python app.py`, open the local link, and start scheduling! 📅

@@ -15,4 +15,4 @@ Job scheduler with multi-GPU compatibility and out-of-memory handling.
 
 🏃‍♀️ Run `python app.py`, open the local link, and start scheduling! 📅
 
-![app screen](templates/demo.jpg)
+![app screen](templates/demo.png)
